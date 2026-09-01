@@ -4,36 +4,36 @@
   </a>
 </div>
 
-## 🌐 Tentang Kami (About Us)
+## 🌐 About Us
 
-**R&D ICWR (In Crust We Rush)** adalah sebuah organisasi riset dan pengembangan (R&D) yang didirikan pada tanggal **20 Desember 2015** di Indonesia. Kami tidak hanya berfokus pada ranah Teknologi Informasi, tetapi juga mengeksplorasi secara mendalam tentang sains, keamanan siber (*cybersecurity*), peretasan (*hacking*), isu-isu sosial, hingga pandangan hidup yang berlandaskan pada persaudaraan (*BrotherHood*).
+**R&D ICWR (In Crust We Rush)** is a research and development (R&D) organization founded on **December 20, 2015**, in Indonesia. We do not solely focus on the realm of Information Technology; we dive deep into science, cybersecurity, hacking, social issues, and a way of life grounded in **BrotherHood**.
 
 > *"The declination of sanity in the semi-black age that comes with a desire for praxis, along with the darkness creeping softly. Wielding a crowd of angry worshipers in the depths of the bottom of the trough of imagination. Half peaceful, half ironic, and half passionately dancing."* — **ICWR**
 
 ---
 
-## 🛠️ Layanan & Keahlian (Our Services & Expertise)
+## 🛠️ Our Services & Expertise
 
-Sebagai organisasi R&D, kami aktif dalam membangun, meneliti, dan menyediakan layanan di berbagai bidang teknologi:
+As an R&D organization, we actively build, research, and provide services across various technological domains:
 
-- 🛡️ **Cyber Security & Pentesting:** Pengujian penetrasi untuk aplikasi Web & Mobile.
-- 💻 **Building & Development:** Pengembangan Web Apps, Mobile Apps, serta perangkat lunak dan *tools* automasi untuk platform Windows & Linux.
-- 🌐 **Networking:** Konfigurasi dan optimasi infrastruktur jaringan.
-- 🎓 **Training & IT Consultant:** Pelatihan dan konsultasi di bidang IT, teknologi, dan keamanan siber.
+- 🛡️ **Cyber Security & Pentesting:** Penetration testing for Web and Mobile applications.
+- 💻 **Building & Development:** Development of Web Apps, Mobile Apps, software, and automation tools for Windows & Linux platforms.
+- 🌐 **Networking:** Configuration and optimization of network infrastructures.
+- 🎓 **Training & IT Consultant:** Training and consulting services in IT, emerging technologies, and cybersecurity.
 
 ---
 
-## 🚀 Proyek Unggulan (Highlighted Open-Source Projects)
+## 🚀 Highlighted Open-Source Projects
 
-Kami secara aktif mengembangkan dan merilis berbagai *tools* keamanan siber dan otomatisasi. Berikut adalah beberapa repositori unggulan kami:
+We actively develop and release various cybersecurity and automation tools. Here are some of our featured repositories:
 
-| Repository | Deskripsi | Bahasa Utama |
+| Repository | Description | Main Language |
 | --- | --- | --- |
-| 🛡️ [**R-AScan**](https://github.com/ICWR-TEAM/R-AScan) | *Rusher Automatic Scanner* - Framework kerentanan modular berbasis *multithreading* yang otomatis memindai target dan memberikan *output* terstruktur. | Python |
-| 🔍 [**BigDorker**](https://github.com/ICWR-TEAM/BigDorker) | Alat otomasi dan manipulasi *dorking* skala besar untuk mempermudah pencarian jejak digital/kerentanan. | Python |
-| 🤖 [**MScanner**](https://github.com/ICWR-TEAM/MScanner) | *Malicious Code Scanner* yang dibuat khusus untuk mendeteksi *backdoor* atau kode berbahaya dalam suatu sistem. | Python |
-| 🧱 [**R-WAF**](https://github.com/ICWR-TEAM/R-WAF) | *Rusher Web Application Firewall* (WAF) - Solusi proteksi bagi aplikasi web dari serangan siber eksternal. | Shell / HTML |
-| 🧠 **MCP Integrations** | Riset kami pada ekosistem AI, meliputi proyek seperti *BrainMemory-MCP*, *Facebook-Automata-MCP*, dan *Firefox-Browser-MCP*. | Python / JS |
+| 🛡️ [**R-AScan**](https://github.com/ICWR-TEAM/R-AScan) | *Rusher Automatic Scanner* - A modular, multithreaded vulnerability scanner framework that executes against targets and returns structured JSON output. | Python |
+| 🔍 [**BigDorker**](https://github.com/ICWR-TEAM/BigDorker) | A large-scale automated dorking tool designed to streamline digital footprinting and vulnerability discovery. | Python |
+| 🤖 [**MScanner**](https://github.com/ICWR-TEAM/MScanner) | *Malicious Code Scanner* built specifically to detect backdoors or malicious scripts hidden within a system. | Python |
+| 🧱 [**R-WAF**](https://github.com/ICWR-TEAM/R-WAF) | *Rusher Web Application Firewall* (WAF) - A robust protection solution to shield web applications from external cyber attacks. | Shell / HTML |
+| 🧠 **MCP Integrations** | Our latest research in the AI ecosystem, featuring projects like *BrainMemory-MCP*, *Facebook-Automata-MCP*, and *Firefox-Browser-MCP*. | Python / JS |
 
 ---
 
@@ -48,15 +48,15 @@ Kami secara aktif mengembangkan dan merilis berbagai *tools* keamanan siber dan 
 
 ---
 
-## 📞 Hubungi Kami (Connect with Us)
+## 📞 Connect with Us
 
-Kami selalu terbuka untuk berdiskusi, belajar bersama, maupun bekerja sama dalam riset dan pengembangan perangkat lunak!
+We are always open to discussions, collaborative learning, and partnerships in software research and development!
 
-- 🌍 **Website Utama:** [incrustwerush.org](https://incrustwerush.org/)
-- 📝 **Artikel & Blog:** [blog.incrustwerush.org](https://blog.incrustwerush.org/)
+- 🌍 **Main Website:** [incrustwerush.org](https://incrustwerush.org/)
+- 📝 **Articles & Blog:** [blog.incrustwerush.org](https://blog.incrustwerush.org/)
 - 📧 **Email:** [info@incrustwerush.org](mailto:info@incrustwerush.org)
 - 📱 **Phone/WhatsApp:** +62 851-7530-1337
-- 📍 **Asal:** Indonesia 🇮🇩
+- 📍 **Location:** Indonesia 🇮🇩
 
 <div align="center">
   <br>
